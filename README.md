@@ -3,6 +3,8 @@
 
 [Club Penguin Customized](https://sites.google.com/view/cpcustomized)
 
+[CPPSCREATOR](https://cppscreator.com/) - Free CPPS Hosting.
+
 [CPPS.io](https://cpps.io/) - VPN Recommended.
 
 [CPPS.to](https://www.cpps.to/)
@@ -37,6 +39,12 @@
 
 [Penguin Zone](https://penguinzone.ca/)
 
+[Club Penguin Elemental](https://discord.com/invite/n5cYEXmvrz)
+
+[Club Penguin Offline](https://cpoffline.weebly.com/)
+
+[Club Penguin Reborn](https://cpreborn.ml/)
+
 # HTML5 CPPSes:
 [Untitled Penguin Project](https://untitledpenguinproject.com/#/)
 
@@ -55,3 +63,8 @@
 [Club Penguin Legacy](https://cplegacy.com/)
 
 [Penguin World](https://discord.gg/byQNUm4zvx)
+
+#CPIPSes:
+[Waddle Penguins](https://waddlepenguins.me/)
+
+[Club Penguin Customized](https://sites.google.com/view/cpcustomized)
