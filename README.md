@@ -3,6 +3,8 @@
 
 [Club Penguin Customized](https://sites.google.com/view/cpcustomized)
 
+[Little Penguin](https://littlepenguin.ml/)
+
 [CPPSCREATOR](https://cppscreator.com/) - Free CPPS Hosting.
 
 [CPPS.io](https://cpps.io/) - VPN Recommended.
