@@ -64,7 +64,7 @@
 
 [Penguin World](https://discord.gg/byQNUm4zvx)
 
-#CPIPSes:
+# CPIPSes:
 [Waddle Penguins](https://waddlepenguins.me/)
 
-[Club Penguin Customized](https://sites.google.com/view/cpcustomized)
+[Waddle Legacy](https://discord.com/invite/JAhYqrHBZq)
