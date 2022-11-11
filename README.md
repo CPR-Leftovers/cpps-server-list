@@ -7,7 +7,7 @@
 
 [CPPS.to](https://www.cpps.to/)
 
-[CPPS.app](https://cpps.app/)
+[CPPS.app](https://cpps.app/) - VPN Recommended.
 
 [Club Penguin Brazuca](http://cpbrazuca.com/)
 
