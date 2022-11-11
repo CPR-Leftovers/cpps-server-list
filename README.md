@@ -48,6 +48,8 @@
 # HTML5 CPPSes:
 [Untitled Penguin Project](https://untitledpenguinproject.com/#/)
 
+[Club Penguin Newlands](https://discord.gg/AZmgnfSZTR)
+
 [Club Penguin X](https://discord.gg/cpx)
 
 [Club Penguin Plus](https://cpplus.pw/)
