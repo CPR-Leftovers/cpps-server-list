@@ -48,6 +48,8 @@
 [Club Penguin Reborn](https://cpreborn.ml/)
 
 # HTML5 CPPSes:
+[Club Penguin Remix](https://cpremix.me/)
+
 [Untitled Penguin Project](https://untitledpenguinproject.com/#/)
 
 [Club Penguin Newlands](https://discord.gg/AZmgnfSZTR)
